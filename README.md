@@ -15,7 +15,7 @@ Python v3 and scapy is enough.
 Just run the script with Python3, and follow the interactive commands.
 
 ```
-#cd SimpleTcpPortScanner
-#python simpleTcpPortScanner.py
+# cd SimpleTcpPortScanner
+# python simpleTcpPortScanner.py
 ```
 
